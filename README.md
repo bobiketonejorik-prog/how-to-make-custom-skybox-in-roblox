@@ -1,5 +1,5 @@
-Here is a code that you need to activate to change your skybox
-code:
+
+
 local Lighting = game:GetService("Lighting")
 local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
